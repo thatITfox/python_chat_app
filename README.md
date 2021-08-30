@@ -2,4 +2,4 @@
 
 this is an online python chat app using the socket library
 this can be setup in a server like aws, google cloud, or any server
-more information will come soon
+more information will come soon as this project is not complete
