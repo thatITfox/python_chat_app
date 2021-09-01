@@ -19,7 +19,7 @@ u can run it there or u can make a shortcut for it
 
 how to run straight up using python:
 
-u can go to teh terminal and type python client.py
+u can go to the terminal and type python client.py
 
 how to set up the server:
 
