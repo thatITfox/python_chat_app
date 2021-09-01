@@ -2,7 +2,7 @@
 
 this is an online python chat app using the socket library
 this project is based from https://github.com/nimiology/local_massenger_socket
-more versions with more feature will come soom
+more versions with more feature will come soon
 
 features in production:
 1. usernames
