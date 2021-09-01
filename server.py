@@ -3,7 +3,7 @@ import threading
 
 
 PORT = 2412
-SERVER = socket.gethostbyname(socket.gethostname())
+SERVER = input("put your server public ip here: ")
 ADDR = (SERVER,PORT)
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
