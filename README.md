@@ -18,7 +18,9 @@ go to python_chat_app/for_windows_without_python/dist/client/ and u can find the
 u can run it there or u can make a shortcut for it
 
 how to run straight up using python:
+
 u can go to teh terminal and type python client.py
 
 how to set up the server:
+
 u can go to the directory and type python server.py and set up the ip address to ur server public ip
