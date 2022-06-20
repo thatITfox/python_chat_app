@@ -19,7 +19,6 @@ def SENDMSG(txt,new):
         if PERSON != new:
             PERSON.send(txt.encode(FORMAT))
 
-
 def client_handle(conn, addr):
     # get the username of the client
     msg_length = conn.recv(2048).decode(FORMAT)
